@@ -12,3 +12,4 @@ select  * from employees;
    select substr(FIRST_NAME,0,1) || '.' || substr(LAST_NAME,0,1) as INITIALS,
           first_name || 'MAKES' || SALARY AS "EMPLOYEE SALARY" from employees;
 
+  select * from new_sdet;

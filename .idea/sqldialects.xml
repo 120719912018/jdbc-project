@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day02/day9_customer_address.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day02/task7_views.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day03/task1_reveiw (1).sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day03/task1_reveiw.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day03/task8_ddl_dml.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day04/task1_test.sql" dialect="GenericSQL" />
+  </component>
+</project>

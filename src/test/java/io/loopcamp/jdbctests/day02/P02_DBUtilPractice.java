@@ -1,7 +1,6 @@
 package io.loopcamp.jdbctests.day02;
 
 import io.loopcamp.jdbctests.utility.DB_util;
-import oracle.net.jdbc.TNSAddress.SOException;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
